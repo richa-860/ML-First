@@ -56,3 +56,6 @@ def predict_diabetictype(request):
         }
     
     return Response(predictions)
+
+
+print("I am Richa")
